@@ -1,2 +1,2 @@
 # DiscordRPC
-Fivem
+Discord  RPC Fivem
